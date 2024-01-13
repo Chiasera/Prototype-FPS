@@ -1,7 +1,6 @@
-# CollisionDetection
- Implementation of collision detection without built in physics engine
+# Prototype FPS
 
-About the assets. All shaders have been made my myself. 
+About the assets: all shaders have been made my myself. 
 The textures are not all mine, as they come from the asset store (whether bought or free), especially the stylized tiled textures and normal maps from Cartoon_Texture_Pack.
 The whole prototype took arround 3 days to make.
 Here are my inspirations from some years ago for the water shader that I have been updating:
