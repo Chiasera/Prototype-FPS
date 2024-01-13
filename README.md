@@ -3,6 +3,7 @@
 
 About the assets. All shaders have been made my myself, some modified for the purpose of this assignment, some from some time ago. 
 The textures are not all mine, as they come from the asset store (whether bought or free), especially the stylized tiled textures and normal maps from Cartoon_Texture_Pack.
+The whole prototype took arround 3 days to make.
 Here are my inspirations from some years ago for the water shader that I have been updating:
 * https://www.youtube.com/watch?v=gRq-IdShxpU&ab_channel=Unity
 * https://www.youtube.com/watch?v=kGEqaX4Y4bQ&ab_channel=JumpTrajectory
